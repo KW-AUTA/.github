@@ -10,7 +10,7 @@ AUTA는 웹/모바일 인터페이스를 자동으로 분석하고, 시각적 �
 ## 주요 레포지토리
 
 - [auta-client](https://github.com/KW-AUTA/client) - React 기반 리포트 UI
-- [auta-model](https://github.com/KW-AUTA/server) - Spring 기반 비지니스 로직 API 서버
+- [auta-server](https://github.com/KW-AUTA/server) - Spring 기반 비지니스 로직 API 서버
 - [auta-model](https://github.com/KW-AUTA/AI) - FastAPI 기반 분석 API 서버 + YOLO + GPT 모델 파이프라인
 
 ## System Architecture
